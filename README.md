@@ -99,12 +99,12 @@ Change the password from the UI after first login.
 
 1. Login to ArgoCD UI
 2. Click "New App" and fill in:
-  Name: online-app
-  Project:	default
-  Sync Policy	Manual or Auto (choose based on preference)
-  Repo URL:	https://github.com/your-username/gitops-app
-  Path:	.
-  Cluster:	https://kubernetes.default.svc
+  Name: online-app,
+  Project: default,
+  Sync Policy	Manual or Auto (choose based on preference),
+  Repo URL:	https://github.com/your-username/gitops-app,
+  Path:	. ,
+  Cluster:	https://kubernetes.default.svc,
   Namespace:	default
 3. Click Create → Sync.
 
