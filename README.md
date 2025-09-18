@@ -109,6 +109,23 @@ Change the password from the UI after first login.
 3. Click Create → Sync.
 
 
+## 🖼️ Screenshots
+
+1. **Source GitHub Repository Details**  
+   ![S3 Bucket Interface](screenshots/Source-GitHub-Repository-details.png)
+
+2. **Domain Active + Enabled (Cloudflare)**  
+   ![Domain Active](screenshots/cloudflare-domain-active.png)
+
+3. **GitHub Actions Workflow Output**  
+   ![GitHub Actions](screenshots/github-actions-workflow.png)
+
+4. **Browser Showing Live Site**  
+   ![Live Site in Browser](screenshots/live-site-screenshot.png)
+
+---
+
+
 
 
 
