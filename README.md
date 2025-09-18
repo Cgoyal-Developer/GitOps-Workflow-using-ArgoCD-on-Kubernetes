@@ -109,23 +109,25 @@ Change the password from the UI after first login.
 3. Click Create → Sync.
 
 
-## 🖼️ Screenshots
-
-1. **Source GitHub Repository Details**  
-   ![S3 Bucket Interface](screenshots/Source-GitHub-Repository-details.png)
-
-2. **Domain Active + Enabled (Cloudflare)**  
-   ![Domain Active](screenshots/cloudflare-domain-active.png)
-
-3. **GitHub Actions Workflow Output**  
-   ![GitHub Actions](screenshots/github-actions-workflow.png)
-
-4. **Browser Showing Live Site**  
-   ![Live Site in Browser](screenshots/live-site-screenshot.png)
+📁 All screenshots are stored in the `/screenshots/` directory in this repository.
 
 ---
 
+## 🖼️ Screenshots
 
+1. **Source GitHub Repository Details**  
+   ![Source GitHub Repository Details](screenshots/Source-GitHub-Repository-details.png)
+
+2. **ArgoCD Synced Status (via GitHub)**  
+   ![ArgoCD Synced](screenshots/ArgoCD-Synced-Status.png)
+
+3. **Live Website Running**  
+   ![Live Site in Browser](screenshots/Live-Website-Running.png)
+
+4. **Replica's Dashboard**  
+   ![Replica's Dashboard](screenshots/Replica-Count-in-K3s/ArgoCD.png)
+
+---
 
 
 
