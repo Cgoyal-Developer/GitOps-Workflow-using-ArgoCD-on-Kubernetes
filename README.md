@@ -125,7 +125,7 @@ Change the password from the UI after first login.
    ![Live Site in Browser](screenshots/Live-Website-Running.png)
 
 4. **Replica's Dashboard**  
-   ![Replica's Dashboard](screenshots/Replica-Count-in-K3s/ArgoCD.png)
+   ![Replica's Dashboard](screenshots/Replica-Count-in-K3sArgoCD.png)
 
 ---
 
